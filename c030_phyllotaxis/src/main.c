@@ -1,4 +1,5 @@
 #include <SFML/Graphics/CircleShape.h>
+#include <SFML/Graphics/Color.h>
 #include <SFML/Graphics/RenderTexture.h>
 #include <SFML/Graphics/RenderWindow.h>
 #include <SFML/Graphics/Sprite.h>
